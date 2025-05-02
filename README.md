@@ -13,3 +13,10 @@
 - `austin/regression.ipynb`
     - contains multiple attempts at feedforward neural network, and cross
     validation between neural network and random forest.
+- `kelvin/data`
+    - contains minibus data and data for linear regression
+- `kelvin/func_/analysis.py`
+    - for EDA on minibus
+- `kelvin/func_/linear_regression.ipynb`
+    - contains training procedure of linear regression (OLS, WLS)
+    - generates graphs
