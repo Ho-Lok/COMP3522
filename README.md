@@ -13,6 +13,8 @@
 - `austin/regression.ipynb`
     - contains multiple attempts at feedforward neural network, and cross
     validation between neural network and random forest.
+    - The final models used and cross validations are in the last 2 sections of
+    the notebook
 - `kelvin/data`
     - contains minibus data and data for linear regression
 - `kelvin/func_/analysis.py`
