@@ -22,3 +22,17 @@
 - `kelvin/func_/linear_regression.ipynb`
     - contains training procedure of linear regression (OLS, WLS)
     - generates graphs
+- `kelly/Data`
+    - contains dataset for Model Training
+    - include demographic, transport, and final dataset
+- `kelly/MTR_Data`
+    - contains full MTR data
+- `kelly/DataCleaning`
+    - `DataCleaning_Demographics.ipynb`: data filtering and merging demographic data
+    - `DataCleaning_MTR.ipynb`: pipeline for collecting MTR data
+- `kelly/EDA`
+    - `EDA_Transport_data.ipynb`: EDA on all transport data
+    - `EDA_MTR.ipynb`: EDA on MTR
+- `kelly/Methdology`
+    - contains the main methodology for project focus 
+    - `Stage1_Find_Expensive.ipynb`: Identifying expensive pairs and visualization
