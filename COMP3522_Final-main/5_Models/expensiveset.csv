@@ -1,0 +1,515 @@
+Start Constituency,End Constituency
+Central,Tai Po North
+Central,Tuen Mun East
+Central,Tin Shui Wai South and Ping Ha
+Central,Yuen Long Rural East
+Central,Yuen Long Town Centre
+Western,Tuen Mun East
+Western,Tuen Mun North
+Western,Tin Shui Wai South and Ping Ha
+Western,Yuen Long Rural East
+Western,Yuen Long Town Centre
+Chai Wan,Sha Tin East
+Chai Wan,Sha Tin North
+Chai Wan,Sha Tin South
+Chai Wan,Sha Tin West
+Chai Wan,Tai Po North
+Chai Wan,Tai Po South
+Chai Wan,Tsuen Wan Northwest
+Chai Wan,Yuen Long Rural East
+Chai Wan,Yuen Long Town Centre
+Hong Wan,Islands
+Hong Wan,Tsing Yi
+Hong Wan,Wu Tip Shan
+Hong Wan,Sha Tin East
+Hong Wan,Sha Tin North
+Hong Wan,Sha Tin South
+Hong Wan,Sha Tin West
+Hong Wan,Tai Po North
+Hong Wan,Tai Po South
+Hong Wan,Tsuen Wan Northwest
+Hong Wan,Tuen Mun East
+Hong Wan,Tuen Mun North
+Hong Wan,Tuen Mun West
+Hong Wan,Tin Shui Wai South and Ping Ha
+Hong Wan,Yuen Long Rural East
+Hong Wan,Yuen Long Town Centre
+Tai Pak,Islands
+Tai Pak,Tsing Yi
+Tai Pak,Robin's Nest
+Tai Pak,Wu Tip Shan
+Tai Pak,Sai Kung and Hang Hau
+Tai Pak,Tseung Kwan O North
+Tai Pak,Tseung Kwan O South
+Tai Pak,Sha Tin East
+Tai Pak,Sha Tin North
+Tai Pak,Sha Tin South
+Tai Pak,Sha Tin West
+Tai Pak,Tai Po North
+Tai Pak,Tai Po South
+Tai Pak,Tsuen Wan Northwest
+Tai Pak,Tsuen Wan Southeast
+Tai Pak,Tuen Mun East
+Tai Pak,Tuen Mun North
+Tai Pak,Tuen Mun West
+Tai Pak,Tin Shui Wai South and Ping Ha
+Tai Pak,Yuen Long Rural East
+Tai Pak,Yuen Long Town Centre
+Islands,Central
+Islands,Western
+Islands,Hong Wan
+Islands,Tai Pak
+Islands,Kowloon City North
+Islands,Kowloon City South
+Islands,Kwun Tong Central
+Islands,Kwun Tong North
+Islands,Kwun Tong Southeast
+Islands,Kwun Tong West
+Islands,Tseung Kwan O North
+Islands,Tseung Kwan O South
+Islands,Sha Tin East
+Islands,Sha Tin North
+Islands,Sha Tin South
+Islands,Sha Tin West
+Islands,Southern District Northwest
+Islands,Southern District Southeast
+Islands,Tai Po North
+Islands,Tai Po South
+Islands,Wan Chai
+Islands,Wong Tai Sin East
+Islands,Wong Tai Sin West
+Islands,Yau Tsim Mong South
+Islands,Tin Shui Wai South and Ping Ha
+Kowloon City North,Islands
+Kowloon City North,Wu Tip Shan
+Kowloon City North,Tuen Mun North
+Kowloon City North,Tuen Mun West
+Kowloon City North,Tin Shui Wai South and Ping Ha
+Kowloon City North,Yuen Long Rural East
+Kowloon City North,Yuen Long Town Centre
+Kowloon City South,Wu Tip Shan
+Kowloon City South,Southern District Southeast
+Kowloon City South,Tuen Mun North
+Kowloon City South,Tin Shui Wai South and Ping Ha
+Kowloon City South,Yuen Long Rural East
+Kowloon City South,Yuen Long Town Centre
+Kwai Chung East,Central
+Kwai Chung East,Islands
+Kwai Chung East,Robin's Nest
+Kwai Chung East,Southern District Northwest
+Kwai Chung East,Wan Chai
+Kwai Chung West,Central
+Kwai Chung West,Islands
+Kwai Chung West,Robin's Nest
+Kwai Chung West,Wu Tip Shan
+Kwai Chung West,Southern District Northwest
+Kwai Chung West,Wan Chai
+Tsing Yi,Central
+Tsing Yi,Hong Wan
+Tsing Yi,Tai Pak
+Tsing Yi,Robin's Nest
+Tsing Yi,Wu Tip Shan
+Tsing Yi,Southern District Northwest
+Tsing Yi,Tai Po North
+Tsing Yi,Tuen Mun West
+Tsing Yi,Wan Chai
+Kwun Tong Central,Islands
+Kwun Tong Central,Robin's Nest
+Kwun Tong Central,Wu Tip Shan
+Kwun Tong Central,Sham Shui Po East
+Kwun Tong Central,Southern District Northwest
+Kwun Tong Central,Southern District Southeast
+Kwun Tong Central,Tai Po North
+Kwun Tong Central,Tuen Mun East
+Kwun Tong Central,Tuen Mun North
+Kwun Tong Central,Tuen Mun West
+Kwun Tong Central,Tin Shui Wai South and Ping Ha
+Kwun Tong Central,Yuen Long Rural East
+Kwun Tong Central,Yuen Long Town Centre
+Kwun Tong North,Central
+Kwun Tong North,Islands
+Kwun Tong North,Tai Po North
+Kwun Tong North,Tsuen Wan Northwest
+Kwun Tong North,Tuen Mun East
+Kwun Tong North,Wan Chai
+Kwun Tong Southeast,Western
+Kwun Tong Southeast,Islands
+Kwun Tong Southeast,Robin's Nest
+Kwun Tong Southeast,Wu Tip Shan
+Kwun Tong Southeast,Southern District Northwest
+Kwun Tong Southeast,Southern District Southeast
+Kwun Tong Southeast,Tsuen Wan Northwest
+Kwun Tong Southeast,Tuen Mun East
+Kwun Tong Southeast,Tuen Mun North
+Kwun Tong Southeast,Tuen Mun West
+Kwun Tong Southeast,Tin Shui Wai South and Ping Ha
+Kwun Tong Southeast,Yuen Long Rural East
+Kwun Tong Southeast,Yuen Long Town Centre
+Kwun Tong West,Islands
+Kwun Tong West,Robin's Nest
+Kwun Tong West,Wu Tip Shan
+Kwun Tong West,Tai Po North
+Kwun Tong West,Tuen Mun East
+Kwun Tong West,Tuen Mun North
+Kwun Tong West,Tuen Mun West
+Kwun Tong West,Tin Shui Wai South and Ping Ha
+Kwun Tong West,Yuen Long Rural East
+Kwun Tong West,Yuen Long Town Centre
+Robin's Nest,Central
+Robin's Nest,Western
+Robin's Nest,Tai Pak
+Robin's Nest,Kwai Chung East
+Robin's Nest,Kwai Chung West
+Robin's Nest,Tsing Yi
+Robin's Nest,Kwun Tong Central
+Robin's Nest,Kwun Tong Southeast
+Robin's Nest,Sai Kung and Hang Hau
+Robin's Nest,Tseung Kwan O North
+Robin's Nest,Tseung Kwan O South
+Robin's Nest,Sha Tin East
+Robin's Nest,Sha Tin North
+Robin's Nest,Sha Tin South
+Robin's Nest,Sha Tin West
+Robin's Nest,Southern District Southeast
+Robin's Nest,Tai Po South
+Robin's Nest,Tsuen Wan Northwest
+Robin's Nest,Tsuen Wan Southeast
+Robin's Nest,Wan Chai
+Robin's Nest,Yuen Long Rural East
+Wu Tip Shan,Central
+Wu Tip Shan,Western
+Wu Tip Shan,Hong Wan
+Wu Tip Shan,Tai Pak
+Wu Tip Shan,Islands
+Wu Tip Shan,Tsing Yi
+Wu Tip Shan,Kwun Tong Central
+Wu Tip Shan,Kwun Tong Southeast
+Wu Tip Shan,Kwun Tong West
+Wu Tip Shan,Sai Kung and Hang Hau
+Wu Tip Shan,Tseung Kwan O North
+Wu Tip Shan,Tseung Kwan O South
+Wu Tip Shan,Sha Tin East
+Wu Tip Shan,Southern District Southeast
+Wu Tip Shan,Tsuen Wan Northwest
+Wu Tip Shan,Wan Chai
+Wu Tip Shan,Wong Tai Sin East
+Wu Tip Shan,Yuen Long Rural East
+Sai Kung and Hang Hau,Southern District Northwest
+Sai Kung and Hang Hau,Tuen Mun West
+Sai Kung and Hang Hau,Yuen Long Rural East
+Sai Kung and Hang Hau,Yuen Long Town Centre
+Tseung Kwan O North,Islands
+Tseung Kwan O North,Southern District Northwest
+Tseung Kwan O North,Tuen Mun West
+Tseung Kwan O North,Yuen Long Rural East
+Tseung Kwan O South,Central
+Tseung Kwan O South,Islands
+Tseung Kwan O South,Southern District Northwest
+Tseung Kwan O South,Tuen Mun West
+Tseung Kwan O South,Wan Chai
+Tseung Kwan O South,Yuen Long Rural East
+Tseung Kwan O South,Yuen Long Town Centre
+Sha Tin East,Central
+Sha Tin East,Western
+Sha Tin East,Chai Wan
+Sha Tin East,Hong Wan
+Sha Tin East,Tai Pak
+Sha Tin East,Islands
+Sha Tin East,Robin's Nest
+Sha Tin East,Southern District Northwest
+Sha Tin East,Southern District Southeast
+Sha Tin East,Tsuen Wan Northwest
+Sha Tin East,Tuen Mun East
+Sha Tin East,Wan Chai
+Sha Tin East,Tin Shui Wai South and Ping Ha
+Sha Tin East,Yuen Long Rural East
+Sha Tin East,Yuen Long Town Centre
+Sha Tin North,Central
+Sha Tin North,Western
+Sha Tin North,Chai Wan
+Sha Tin North,Hong Wan
+Sha Tin North,Tai Pak
+Sha Tin North,Islands
+Sha Tin North,Kwun Tong Southeast
+Sha Tin North,Robin's Nest
+Sha Tin North,Southern District Northwest
+Sha Tin North,Southern District Southeast
+Sha Tin North,Tsuen Wan Northwest
+Sha Tin North,Tuen Mun West
+Sha Tin North,Wan Chai
+Sha Tin North,Yuen Long Rural East
+Sha Tin South,Central
+Sha Tin South,Western
+Sha Tin South,Chai Wan
+Sha Tin South,Hong Wan
+Sha Tin South,Tai Pak
+Sha Tin South,Islands
+Sha Tin South,Kwun Tong Southeast
+Sha Tin South,Robin's Nest
+Sha Tin South,Southern District Northwest
+Sha Tin South,Southern District Southeast
+Sha Tin South,Tsuen Wan Northwest
+Sha Tin South,Wan Chai
+Sha Tin South,Tin Shui Wai South and Ping Ha
+Sha Tin South,Yuen Long Rural East
+Sha Tin South,Yuen Long Town Centre
+Sha Tin West,Western
+Sha Tin West,Chai Wan
+Sha Tin West,Hong Wan
+Sha Tin West,Tai Pak
+Sha Tin West,Islands
+Sha Tin West,Robin's Nest
+Sha Tin West,Southern District Northwest
+Sha Tin West,Southern District Southeast
+Sha Tin West,Tuen Mun East
+Sha Tin West,Tuen Mun West
+Sha Tin West,Wan Chai
+Sha Tin West,Tin Shui Wai South and Ping Ha
+Sha Tin West,Yuen Long Rural East
+Sha Tin West,Yuen Long Town Centre
+Sham Shui Po East,Islands
+Sham Shui Po East,Wu Tip Shan
+Sham Shui Po East,Southern District Southeast
+Sham Shui Po East,Tuen Mun North
+Sham Shui Po East,Tuen Mun West
+Sham Shui Po East,Tin Shui Wai South and Ping Ha
+Sham Shui Po East,Yuen Long Rural East
+Sham Shui Po East,Yuen Long Town Centre
+Sham Shui Po West,Islands
+Sham Shui Po West,Wu Tip Shan
+Sham Shui Po West,Southern District Southeast
+Sham Shui Po West,Tin Shui Wai South and Ping Ha
+Sham Shui Po West,Yuen Long Rural East
+Sham Shui Po West,Yuen Long Town Centre
+Southern District Northwest,Islands
+Southern District Northwest,Kowloon City North
+Southern District Northwest,Kwai Chung East
+Southern District Northwest,Kwai Chung West
+Southern District Northwest,Tsing Yi
+Southern District Northwest,Kwun Tong Central
+Southern District Northwest,Kwun Tong North
+Southern District Northwest,Kwun Tong Southeast
+Southern District Northwest,Wu Tip Shan
+Southern District Northwest,Sai Kung and Hang Hau
+Southern District Northwest,Tseung Kwan O North
+Southern District Northwest,Tseung Kwan O South
+Southern District Northwest,Sha Tin East
+Southern District Northwest,Sha Tin North
+Southern District Northwest,Sha Tin South
+Southern District Northwest,Sha Tin West
+Southern District Northwest,Tai Po North
+Southern District Northwest,Tai Po South
+Southern District Northwest,Tsuen Wan Northwest
+Southern District Northwest,Tsuen Wan Southeast
+Southern District Northwest,Tuen Mun East
+Southern District Northwest,Tuen Mun North
+Southern District Northwest,Tuen Mun West
+Southern District Northwest,Tin Shui Wai South and Ping Ha
+Southern District Northwest,Yuen Long Rural East
+Southern District Northwest,Yuen Long Town Centre
+Southern District Southeast,Islands
+Southern District Southeast,Kwun Tong North
+Southern District Southeast,Robin's Nest
+Southern District Southeast,Wu Tip Shan
+Southern District Southeast,Sha Tin East
+Southern District Southeast,Sha Tin North
+Southern District Southeast,Sha Tin South
+Southern District Southeast,Sha Tin West
+Southern District Southeast,Tai Po North
+Southern District Southeast,Tai Po South
+Southern District Southeast,Tsuen Wan Northwest
+Southern District Southeast,Tuen Mun West
+Southern District Southeast,Tin Shui Wai South and Ping Ha
+Southern District Southeast,Yuen Long Rural East
+Southern District Southeast,Yuen Long Town Centre
+Tai Po North,Central
+Tai Po North,Western
+Tai Po North,Chai Wan
+Tai Po North,Hong Wan
+Tai Po North,Tai Pak
+Tai Po North,Islands
+Tai Po North,Tsing Yi
+Tai Po North,Kwun Tong North
+Tai Po North,Kwun Tong Southeast
+Tai Po North,Sai Kung and Hang Hau
+Tai Po North,Southern District Northwest
+Tai Po North,Southern District Southeast
+Tai Po North,Tsuen Wan Northwest
+Tai Po North,Tuen Mun East
+Tai Po North,Tuen Mun North
+Tai Po North,Tuen Mun West
+Tai Po North,Wan Chai
+Tai Po South,Central
+Tai Po South,Western
+Tai Po South,Chai Wan
+Tai Po South,Hong Wan
+Tai Po South,Tai Pak
+Tai Po South,Islands
+Tai Po South,Sai Kung and Hang Hau
+Tai Po South,Southern District Southeast
+Tai Po South,Tsuen Wan Northwest
+Tai Po South,Tuen Mun East
+Tai Po South,Wan Chai
+Tsuen Wan Northwest,Central
+Tsuen Wan Northwest,Western
+Tsuen Wan Northwest,Chai Wan
+Tsuen Wan Northwest,Hong Wan
+Tsuen Wan Northwest,Tai Pak
+Tsuen Wan Northwest,Kwun Tong North
+Tsuen Wan Northwest,Wu Tip Shan
+Tsuen Wan Northwest,Sha Tin North
+Tsuen Wan Northwest,Southern District Northwest
+Tsuen Wan Northwest,Southern District Southeast
+Tsuen Wan Northwest,Tai Po North
+Tsuen Wan Northwest,Tai Po South
+Tsuen Wan Northwest,Wan Chai
+Tsuen Wan Southeast,Central
+Tsuen Wan Southeast,Wan Chai
+Tuen Mun East,Central
+Tuen Mun East,Western
+Tuen Mun East,Hong Wan
+Tuen Mun East,Tai Pak
+Tuen Mun East,Islands
+Tuen Mun East,Kwun Tong Central
+Tuen Mun East,Kwun Tong North
+Tuen Mun East,Kwun Tong Southeast
+Tuen Mun East,Kwun Tong West
+Tuen Mun East,Sha Tin East
+Tuen Mun East,Sha Tin West
+Tuen Mun East,Southern District Northwest
+Tuen Mun East,Tai Po North
+Tuen Mun East,Tai Po South
+Tuen Mun East,Wan Chai
+Tuen Mun East,Wong Tai Sin East
+Tuen Mun East,Yau Tsim Mong South
+Tuen Mun North,Central
+Tuen Mun North,Western
+Tuen Mun North,Tai Pak
+Tuen Mun North,Kowloon City North
+Tuen Mun North,Kowloon City South
+Tuen Mun North,Kwun Tong Central
+Tuen Mun North,Kwun Tong North
+Tuen Mun North,Kwun Tong Southeast
+Tuen Mun North,Kwun Tong West
+Tuen Mun North,Southern District Northwest
+Tuen Mun North,Tai Po North
+Tuen Mun North,Wan Chai
+Tuen Mun North,Wong Tai Sin East
+Tuen Mun North,Wong Tai Sin West
+Tuen Mun North,Yau Tsim Mong South
+Tuen Mun West,Central
+Tuen Mun West,Western
+Tuen Mun West,Chai Wan
+Tuen Mun West,Tai Pak
+Tuen Mun West,Kowloon City North
+Tuen Mun West,Kwai Chung West
+Tuen Mun West,Tsing Yi
+Tuen Mun West,Kwun Tong Central
+Tuen Mun West,Kwun Tong North
+Tuen Mun West,Kwun Tong Southeast
+Tuen Mun West,Kwun Tong West
+Tuen Mun West,Sai Kung and Hang Hau
+Tuen Mun West,Tseung Kwan O North
+Tuen Mun West,Tseung Kwan O South
+Tuen Mun West,Sha Tin East
+Tuen Mun West,Sha Tin North
+Tuen Mun West,Sha Tin South
+Tuen Mun West,Sha Tin West
+Tuen Mun West,Southern District Northwest
+Tuen Mun West,Southern District Southeast
+Tuen Mun West,Tai Po North
+Tuen Mun West,Tai Po South
+Tuen Mun West,Tuen Mun East
+Tuen Mun West,Wan Chai
+Tuen Mun West,Wong Tai Sin West
+Tuen Mun West,Yau Tsim Mong South
+Tuen Mun West,Tin Shui Wai South and Ping Ha
+Tuen Mun West,Yuen Long Town Centre
+Wan Chai,Wu Tip Shan
+Wan Chai,Sha Tin East
+Wan Chai,Sha Tin North
+Wan Chai,Tai Po North
+Wan Chai,Tsuen Wan Northwest
+Wan Chai,Tuen Mun East
+Wan Chai,Tuen Mun West
+Wan Chai,Tin Shui Wai South and Ping Ha
+Wan Chai,Yuen Long Rural East
+Wan Chai,Yuen Long Town Centre
+Wong Tai Sin East,Islands
+Wong Tai Sin East,Wu Tip Shan
+Wong Tai Sin East,Tai Po North
+Wong Tai Sin East,Tsuen Wan Northwest
+Wong Tai Sin East,Tuen Mun East
+Wong Tai Sin East,Tuen Mun North
+Wong Tai Sin East,Tuen Mun West
+Wong Tai Sin East,Tin Shui Wai South and Ping Ha
+Wong Tai Sin East,Yuen Long Rural East
+Wong Tai Sin East,Yuen Long Town Centre
+Wong Tai Sin West,Islands
+Wong Tai Sin West,Wu Tip Shan
+Wong Tai Sin West,Southern District Northwest
+Wong Tai Sin West,Southern District Southeast
+Wong Tai Sin West,Tsuen Wan Northwest
+Wong Tai Sin West,Tuen Mun East
+Wong Tai Sin West,Tuen Mun North
+Wong Tai Sin West,Tuen Mun West
+Wong Tai Sin West,Tin Shui Wai South and Ping Ha
+Wong Tai Sin West,Yuen Long Rural East
+Wong Tai Sin West,Yuen Long Town Centre
+Yau Tsim Mong North,Islands
+Yau Tsim Mong South,Islands
+Yau Tsim Mong South,Tuen Mun North
+Yau Tsim Mong South,Yuen Long Town Centre
+Tin Shui Wai South and Ping Ha,Central
+Tin Shui Wai South and Ping Ha,Western
+Tin Shui Wai South and Ping Ha,Hong Wan
+Tin Shui Wai South and Ping Ha,Tai Pak
+Tin Shui Wai South and Ping Ha,Islands
+Tin Shui Wai South and Ping Ha,Kowloon City North
+Tin Shui Wai South and Ping Ha,Kwun Tong North
+Tin Shui Wai South and Ping Ha,Kwun Tong Southeast
+Tin Shui Wai South and Ping Ha,Sha Tin East
+Tin Shui Wai South and Ping Ha,Sha Tin South
+Tin Shui Wai South and Ping Ha,Southern District Northwest
+Tin Shui Wai South and Ping Ha,Southern District Southeast
+Tin Shui Wai South and Ping Ha,Tuen Mun West
+Tin Shui Wai South and Ping Ha,Wan Chai
+Yuen Long Rural East,Central
+Yuen Long Rural East,Western
+Yuen Long Rural East,Chai Wan
+Yuen Long Rural East,Hong Wan
+Yuen Long Rural East,Tai Pak
+Yuen Long Rural East,Kowloon City North
+Yuen Long Rural East,Kowloon City South
+Yuen Long Rural East,Kwun Tong Central
+Yuen Long Rural East,Kwun Tong North
+Yuen Long Rural East,Kwun Tong Southeast
+Yuen Long Rural East,Kwun Tong West
+Yuen Long Rural East,Robin's Nest
+Yuen Long Rural East,Sai Kung and Hang Hau
+Yuen Long Rural East,Tseung Kwan O North
+Yuen Long Rural East,Tseung Kwan O South
+Yuen Long Rural East,Sha Tin East
+Yuen Long Rural East,Sha Tin North
+Yuen Long Rural East,Sha Tin South
+Yuen Long Rural East,Southern District Northwest
+Yuen Long Rural East,Southern District Southeast
+Yuen Long Rural East,Wan Chai
+Yuen Long Rural East,Wong Tai Sin East
+Yuen Long Rural East,Wong Tai Sin West
+Yuen Long Rural East,Yau Tsim Mong South
+Yuen Long Town Centre,Central
+Yuen Long Town Centre,Western
+Yuen Long Town Centre,Chai Wan
+Yuen Long Town Centre,Hong Wan
+Yuen Long Town Centre,Tai Pak
+Yuen Long Town Centre,Islands
+Yuen Long Town Centre,Kowloon City North
+Yuen Long Town Centre,Kwun Tong Southeast
+Yuen Long Town Centre,Sai Kung and Hang Hau
+Yuen Long Town Centre,Tseung Kwan O South
+Yuen Long Town Centre,Sha Tin East
+Yuen Long Town Centre,Sha Tin South
+Yuen Long Town Centre,Southern District Southeast
+Yuen Long Town Centre,Tuen Mun West
+Yuen Long Town Centre,Wan Chai
