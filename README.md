@@ -1,5 +1,7 @@
 # COMP3522
 
+- `COMP3522_Final-main`
+    - Final flow showcase
 - `austin/data_generation`
     - contains pipeline to generate data from `main.csv`
     - requires rust and cargo
@@ -34,6 +36,6 @@
     - `EDA_Transport_data.ipynb`: EDA on all transport data
     - `EDA_MTR.ipynb`: EDA on MTR
 - `kelly/Methdology`
-    - contains the main methodology for project focus 
+    - contains the main methodology for project focus
     - `Stage1_Find_Expensive.ipynb`: Identifying expensive pairs and visualization
     - `Stage2_Find_Unreasonable.ipynb`: Identifying unreasonable pairs and visualisation
